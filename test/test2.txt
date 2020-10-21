@@ -1,2 +1,3 @@
 Hi, test2 
-conflict check from 2
+conflict check from 3
+data from 1
