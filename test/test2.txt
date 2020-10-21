@@ -1,1 +1,2 @@
-Hi, test2
+Hi, test2 
+conflict check from 2
